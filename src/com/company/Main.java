@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("Hello World!");
         System.out.println("Iza linia");
+        System.out.println("Wykonuję polecenie z pull request");
     }
 }
